@@ -1,5 +1,5 @@
 {
-  "name": "distilled-task",
+  "name": "country-api-task",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
