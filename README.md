@@ -2,13 +2,13 @@
 ## Setup Instructions:
 This project was made in ReactJS
 The react-app was initially created using the comman npx create-react-app
-Just before you load the application, make sure that the following NPM modules have been installed :
+Just before you load the application, make sure that the following NPM modules have been installed using npm install:
    
 <img width="194" alt="image" src="https://user-images.githubusercontent.com/103992117/163963088-8aa15077-adc4-4dff-966c-e8e7afcaa64a.png">
 To run the application make sure you are in the country-api-task directory and then run npm start in the terminal. 
 
 ## Required features:
-When the page loads, your able to see all countries in the form of a table. Clicking on a row will take you to more details about that country whose row has been clicked. 
+When the page loads, your able to see all countries in the form of a table. Clicking on a row will take you to more details about that country whose row has been clicked. To make it more efficient a cache was setup so that the Api data is not fetched every single time when you load the page. 
 
 
 <img width="500" margin-bottom = "15%" alt="image" src="https://user-images.githubusercontent.com/103992117/163963729-60810d61-cc23-43ef-8d79-f4ad31b9514f.png">
