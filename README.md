@@ -11,11 +11,9 @@ The start script to start the app is simply npm start.
 When the page loads, your able to see all countries in the form of a table. Clicking on a row will take you to more details about that country whose row has been clicked. 
 
 
-![image](https://user-images.githubusercontent.com/103992117/163963729-60810d61-cc23-43ef-8d79-f4ad31b9514f.png)
+<img width="500" margin-bottom = "15%" alt="image" src="https://user-images.githubusercontent.com/103992117/163963729-60810d61-cc23-43ef-8d79-f4ad31b9514f.png">
 
-
-
-![image](https://user-images.githubusercontent.com/103992117/163963332-f9d36f26-9697-4a8d-8714-26a3104a0203.png)
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/103992117/163963332-f9d36f26-9697-4a8d-8714-26a3104a0203.png">
 
 The country details have a home button on the top left that will take the user back to the home page.  
 # Added features: 
